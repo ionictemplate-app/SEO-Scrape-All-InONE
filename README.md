@@ -10,8 +10,8 @@
 <tr>
    
    <td>
-       <a href="https://api.whatsapp.com/send/?phone=85265898516" rel="nofollow">
-     <img src="https://i.ibb.co/0sS6GT0/wa.png" alt="wa" border="0">
+       <a href="https://api.whatsapp.com/send/?phone=447999197856" rel="nofollow">
+        <img src="https://i.ibb.co/vLrYPdJ/wa.png" alt="whatsapp" />
     </a>
    </td>
     <td>
@@ -21,6 +21,15 @@
    </td>
 </tr>
 </table>
+
+## All Product List:🌐 https://bit.ly/alloninesocial
+### Telegram: 👉 https://t.me/IonicSupport   
+### Whatsapp  👉 http://wa.me/447999197856
+### Telegram Support Group:👉 https://t.me/+UVmjOA7wu3szYzM1
+
+### Youtube Channel 
+#### 📽 https://www.youtube.com/channel/UCz2Ti8uKwv0Fh5j5IgUTPww
+#### 📽 https://www.youtube.com/channel/UC6NZcaPmat9ooKW1yLxdnjQ
 
 
 ❤️使用 外贸营销推广工具 的主要好处是：
@@ -54,8 +63,6 @@
 
 
 # 外贸营销推广工具--所有功能介绍
-
-✅自动更新 chorme 驱动程序
 
 ✅支持保存浏览器缓存
 
